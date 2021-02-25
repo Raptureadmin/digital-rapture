@@ -1,0 +1,21 @@
+Assign ID: res_text
+
+
+@media screen and (min-width: 767px) and (max-width: 900px) { 
+    #res_text {
+        font-size: 0.9em!important;
+        white-space: initial!important;
+    }
+}
+@media screen and (min-width: 400px) and (max-width: 767px) {
+    #res_text {
+        font-size: 0.6em!important;
+        white-space: initial!important;
+    }
+}
+@media screen and (max-width: 400px) {
+    #res_text {
+        font-size: 0.7em!important;
+        white-space: initial!important;
+    }
+} 
